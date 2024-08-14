@@ -46,48 +46,17 @@
 
 <h3>作品影片</h3>
 
-<ol>
-  <li>
-    霪雨霏霏
-    <a href="https://github.com/user-attachments/assets/14b24a86-8b72-44d3-b2e9-a0cf74f52757" target="_blank">
-      https://github.com/user-attachments/assets/14b24a86-8b72-44d3-b2e9-a0cf74f52757
-    </a>
-  </li>
-  <li>
-    殺老師變變變
-    <a href="https://github.com/user-attachments/assets/3773cf44-e698-42da-803d-bc4d1d3b76db" target="_blank">
-      https://github.com/user-attachments/assets/3773cf44-e698-42da-803d-bc4d1d3b76db
-    </a>
-  </li>
-  <li>
-    3D宇宙
-    <a href="https://github.com/user-attachments/assets/b303086d-e596-499d-b4b3-15fc370011f2" target="_blank">
-      https://github.com/user-attachments/assets/b303086d-e596-499d-b4b3-15fc370011f2
-    </a>
-  </li>
-  <li>
-    星輪幻彩
-    <a href="https://github.com/user-attachments/assets/2803704a-b878-4963-88c5-c6792c1445a8" target="_blank">
-      https://github.com/user-attachments/assets/2803704a-b878-4963-88c5-c6792c1445a8
-    </a>
-  </li>
-  <li>
-    曼陀羅
-    <a href="https://github.com/user-attachments/assets/286100c3-9747-4f3e-8b22-950a854652d9" target="_blank">
-      https://github.com/user-attachments/assets/286100c3-9747-4f3e-8b22-950a854652d9
-    </a>
-  </li>
-  <li>
-    震波漩渦
-    <a href="https://github.com/user-attachments/assets/3950e52a-cc02-439e-964a-f6f4b6981ff8" target="_blank">
-      https://github.com/user-attachments/assets/3950e52a-cc02-439e-964a-f6f4b6981ff8
-    </a>
-  </li>
-</ol>
+https://github.com/user-attachments/assets/6aba3bc5-6f1a-433d-bab1-a56a3c3adf61
 
+https://github.com/user-attachments/assets/813ce393-0d05-4ed6-b2d3-17b8a2a3e09d
 
+https://github.com/user-attachments/assets/a76a35e2-91e7-45bb-ad10-8fba2852a8d1
 
+https://github.com/user-attachments/assets/7d284d04-6b63-47f0-ad24-ca9fe95a3669
 
+https://github.com/user-attachments/assets/6d18662a-ef84-46ea-87b9-45fd40a0c4db
+
+https://github.com/user-attachments/assets/04950549-13a7-43dc-aea1-d32f4075e1d8
 
 
 
